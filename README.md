@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2iCvtC9djzp9_bU1jqitn2RTzFM3_33eNGA&s)](https://github.com/user1738mike)
+[![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20230611/pngtree-screenshotsaturday-image_2937739.jpg)](https://github.com/user1738mike)
 <h1 align="center">Hi 👋, I'm Mike Omole</h1>
 <h3 align="center">A fullstack web developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*kvNFtgCxS8vZ4fhSUYf5kw.gif">
