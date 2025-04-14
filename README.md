@@ -82,7 +82,7 @@ Feel free to explore my repositories for more projects I’ve worked on.
 
 ## Connect with Me
 <p align="left">
- <a href="mailto:radingmichael10@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" /></a>
+<a href="mailto:radingmichael10@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 ---
