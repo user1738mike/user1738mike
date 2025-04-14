@@ -68,7 +68,7 @@ I am a passionate fullstack web developer who thrives on creating impactful web 
 
 ## Projects
 Here are some of my recent projects:
-1. **Chamasafe** - *A table  banking website for business women in Gikomba * ([GitHub Repo](#))
+1. **Chamasafe** - *A table  banking website for business women in Gikomba * ([https://github.com/user1738mike/chamasafe](#))
 2. **Project Name** - *Short description of the project* ([Live Demo](#))
 
 Feel free to explore my repositories for more projects I’ve worked on.
