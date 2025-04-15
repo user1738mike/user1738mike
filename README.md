@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/10/aa/b0/10aab012445e4f2052311e165c8e74d3.jpg" alt="banner" width="100%"/>
+  <img src="https://i.pinimg.com/736x/e2/e4/c0/e2e4c0abb5f46153012162e399ea0a18.jpg" alt="banner" width="100%"/>
 </p>
 
 <h1 align="center">Hey 👋, I'm Mike Omole</h1>
