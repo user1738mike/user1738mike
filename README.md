@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-  <em>I build sleek, performant web apps using modern stacks like React, Node, and Tailwind. Passionate about creating smooth user experiences and solving real-world problems with clean, maintainable code.</em>
+  <em>_I build web apps using React, Node, and Tailwind, with a focus on simplicity, usability, and clean code
+.</em>
 </p>
 
 ---
