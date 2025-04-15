@@ -19,26 +19,14 @@
 
 ## 🚀 Tech Stack
 
-**Languages & Frameworks**
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="32"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="32"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="32"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="32"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="32"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="32"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="32"/> &nbsp;
-</p>
-
-**Tools & Platforms**
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="32"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="32"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="32"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="32"/> &nbsp;
-</p>
+👨‍💻 Languages
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="Ruby" width="32"/> &nbsp; </p>
+🖼️ Frontend
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/bootstrap/bootstrap-icon.svg" alt="Bootstrap" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" width="32"/> &nbsp; </p>
+⚙️ Backend
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/django/django-icon.svg" alt="Django" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="32"/> &nbsp; </p>
+🧰 DevOps & Tools
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="32"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/vitejs/vitejs-icon.svg" alt="Vite" width="32"/> &nbsp; </p>
 
 **Proficiency**
 
