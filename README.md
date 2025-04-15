@@ -1,4 +1,4 @@
-[![MasterHead]https://i.pinimg.com/736x/10/aa/b0/10aab012445e4f2052311e165c8e74d3.jpg](https://github.com/user1738mike)
+[![MasterHead](https://i.pinimg.com/736x/10/aa/b0/10aab012445e4f2052311e165c8e74d3.jpg)](https://github.com/user1738mike)
 
 <h1 align="center">Hi 👋, I'm Mike Omole</h1>
 <h3 align="center">A fullstack web developer from Kenya</h3>
